@@ -72,5 +72,3 @@ Div -A SY
 Pimpri Chinchwad University
 
 Guided by :- Mr. Chandan Prasad
-
-Faculty Guided :-Mrs. Ruchira Karanjikar
