@@ -31,8 +31,6 @@ Setup Instructions
 sh
 Copy
 Edit
-git clone https://github.com/rameshwar-p001/Django-full-stack-develpment-project-main-clg.git
-
 cd Django-full-stack-develpment-project-main-clg
 
 
@@ -67,10 +65,9 @@ python manage.py runserver
 Access the application at http://127.0.0.1:8000/
 
 
-Done By :-    
-         Rameshwar Digambar Patil
+Done By - mayur patel
 
-Div - J - 01
+Div -A SY
 
 Pimpri Chinchwad University
 
